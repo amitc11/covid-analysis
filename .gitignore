@@ -1,6 +1,9 @@
 .ipynb_checkpoints/
 input-data/
+output-data/
 input-data/2020-05-29/
 input-data/cord-19_2020-05-29.tar.gz
 input-data/metadata.csv
 input-data/
+output-data/
+processed-data/
